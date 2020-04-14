@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "testing",
+      "description": "did it work",
+      "id": 1
+    },
+    {
+      "title": "d",
+      "description": "k",
+      "id": 2
+    },
+    {
+      "title": "testing",
+      "description": "1 2 3",
+      "id": 3
+    },
+    {
+      "title": "Yo",
+      "description": "Whats up",
+      "id": 4
+    }
+  ]
+}
