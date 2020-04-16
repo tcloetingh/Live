@@ -24,6 +24,7 @@ class StreamForm extends React.Component {
   };
 
   submitToApi = formValues => {
+    console.log(formValues);
     this.props.onSubmit(formValues);
   };
 
