@@ -54,6 +54,7 @@ export const deleteStream = id => async dispatch => {
   await streams.delete(`/streams/${id}`);
 
   dispatch({ type: DELETE_STREAM, payload: id });
+  history.push("/");
 };
 
 // This is only imported in the component and connected to mapPropsToState
